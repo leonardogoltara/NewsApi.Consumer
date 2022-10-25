@@ -19,3 +19,7 @@ curl --location --request GET 'https://newsapi.org/v2/everything?q=tesla&from=20
 
 ## Documentação
 * Api com parâmetros e respostas documentadas no Swagger.
+
+## Tecnologia
+* ASP.NET Core Web API 6.0
+* Swagger
