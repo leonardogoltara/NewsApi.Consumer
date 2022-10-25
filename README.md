@@ -7,7 +7,7 @@ API construída para buscar artigos na plataforma News API(https://newsapi.org/v
 * Desde(from): data desde que o artigo foi criado.
 
 #### Parâmetros fixos:
-* Chave de acesso da API(API Key): 84e4d640e01d4ff0b0c84a96e628d7ed
+* Chave de acesso da API(apiKey): 84e4d640e01d4ff0b0c84a96e628d7ed
 * Ordenação(sortBy): ordenado por data de publicação.
 
 ## Resposta
