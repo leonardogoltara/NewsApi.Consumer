@@ -1,4 +1,4 @@
-# NewsApi.Consumer
+# News Api Consumer
 Projeto de teste para a empresa Innovea(https://innovea.com.br/). 
 API construída para buscar artigos na plataforma News API(https://newsapi.org/v2/everything).
 
